@@ -1,0 +1,1 @@
+import '@/ai/flows/analyze-idea.ts';
